@@ -1,0 +1,26 @@
+footer{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.footer_social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_foot{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text_eloce{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright{
+    font-size: 0.6em;
+}
